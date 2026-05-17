@@ -132,7 +132,7 @@ The project covers the **full ML pipeline**:
 ### 📏 Simple Linear Regression
 > Predicting house price using only `area_sqft`.
 
-![Simple Linear Regression](images/slr.png)
+![Simple Linear Regression](./images/slr.png)
 
 - R² Score ≈ **0.57** — moderate fit
 - Captures the general upward trend but misses complex patterns
@@ -142,7 +142,7 @@ The project covers the **full ML pipeline**:
 ### 🌀 Polynomial Regression
 > Fitting degree-2 and degree-3 curves for better accuracy.
 
-![Polynomial Regression](images/pr.png)
+![Polynomial Regression](./images/pr.png)
 
 - Degree 2 and Degree 3 curves closely track the data distribution
 - Outperforms simple linear regression significantly
@@ -152,7 +152,7 @@ The project covers the **full ML pipeline**:
 ### ⚡ Gradient Descent Convergence
 > Comparing how fast Batch GD, SGD, and Mini-Batch GD converge.
 
-![Gradient Descent](images/GD.png)
+![Gradient Descent](./images/GD.png)
 
 | Algorithm | Convergence Speed | Stability |
 |-----------|:-----------------:|:---------:|
@@ -165,7 +165,7 @@ The project covers the **full ML pipeline**:
 ### ⚖️ Bias-Variance Tradeoff
 > Evaluating model complexity vs. performance.
 
-![Bias-Variance Tradeoff](images/biasvariance.png)
+![Bias-Variance Tradeoff](./House_Price_Prediction.ipynb)
 
 | Model | Train R² | Test R² |
 |-------|:--------:|:-------:|
@@ -223,22 +223,8 @@ jupyter notebook House_Price_Prediction.ipynb
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the project 🍴
-2. Create your feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit your changes: `git commit -m 'Add some AmazingFeature'`
-4. Push to the branch: `git push origin feature/AmazingFeature`
-5. Open a Pull Request 🚀
-
----
-
 <div align="center">
 
 Made with ❤️ and 🐍 Python
-
-⭐ *Star this repo if you found it helpful!* ⭐
 
 </div>
