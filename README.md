@@ -119,7 +119,7 @@ The project covers the **full ML pipeline**:
 ### 🔗 Correlation Heatmap
 > Understanding which features influence house price the most.
 
-![Correlation Heatmap](images/corr.png)
+![Correlation Heatmap](./image/corr.png)
 
 **🔑 Key Findings:**
 - `area_sqft` → strongest positive correlation with price (0.76)
@@ -132,7 +132,7 @@ The project covers the **full ML pipeline**:
 ### 📏 Simple Linear Regression
 > Predicting house price using only `area_sqft`.
 
-![Simple Linear Regression](./images/slr.png)
+![Simple Linear Regression](./image/slr.png)
 
 - R² Score ≈ **0.57** — moderate fit
 - Captures the general upward trend but misses complex patterns
@@ -142,7 +142,7 @@ The project covers the **full ML pipeline**:
 ### 🌀 Polynomial Regression
 > Fitting degree-2 and degree-3 curves for better accuracy.
 
-![Polynomial Regression](./images/pr.png)
+![Polynomial Regression](./image/pr.png)
 
 - Degree 2 and Degree 3 curves closely track the data distribution
 - Outperforms simple linear regression significantly
@@ -152,7 +152,7 @@ The project covers the **full ML pipeline**:
 ### ⚡ Gradient Descent Convergence
 > Comparing how fast Batch GD, SGD, and Mini-Batch GD converge.
 
-![Gradient Descent](./images/GD.png)
+![Gradient Descent](./image/GD.png)
 
 | Algorithm | Convergence Speed | Stability |
 |-----------|:-----------------:|:---------:|
