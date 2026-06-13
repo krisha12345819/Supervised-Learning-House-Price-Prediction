@@ -4,4 +4,5 @@ pandas
 numpy
 scikit-learn
 imbalanced-learn
-plotly
+seaborn
+time
