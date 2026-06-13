@@ -165,7 +165,7 @@ The project covers the **full ML pipeline**:
 ### ⚖️ Bias-Variance Tradeoff
 > Evaluating model complexity vs. performance.
 
-![Bias-Variance Tradeoff](./House_Price_Prediction.ipynb)
+![Bias-Variance Tradeoff](./image/House_Price_Prediction.ipynb)
 
 | Model | Train R² | Test R² |
 |-------|:--------:|:-------:|
