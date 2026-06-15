@@ -30,6 +30,21 @@
 
 ---
 
+## 🌐 Live Demo
+
+🚀 Try the deployed Streamlit application:
+
+### 🔗 Web App
+https://supervised-learning---house-price-prediction.streamlit.app/
+
+### Features
+- Predict house prices instantly
+- Interactive user interface
+- Real-time regression predictions
+- Visual analysis and insights
+- Beginner-friendly design
+
+---
 ## 📖 Project Overview
 
 This project builds an end-to-end **House Price Prediction** system using classic supervised machine learning regression techniques. The dataset contains **4200 real estate records** with features like area, bedrooms, location score, distance to city, and more.
