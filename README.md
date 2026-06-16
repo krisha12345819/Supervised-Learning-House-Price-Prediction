@@ -37,6 +37,9 @@
 ### 🔗 Web App
 https://supervised-learning---house-price-prediction.streamlit.app/
 
+### 🎞️ Demo
+
+https://github.com/user-attachments/assets/7bab277b-7ff5-4cde-9abb-6375673d543e
 
 ### Features
 - Predict house prices instantly
